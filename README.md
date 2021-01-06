@@ -1,2 +1,3 @@
 # javaDemo
-simple java template
+simple java template and build with gradle
+
